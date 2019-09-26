@@ -45,7 +45,7 @@
     <snapshotRepository>
          <id>benefitalign-nexus-local</id>
          <name>Local file system</name>
-         <url>file:///root/repo/</url>
+         <url>file:///home/thara/testesb/in</url>
     </snapshotRepository>
 
              <repository>
