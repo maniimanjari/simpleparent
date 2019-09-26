@@ -45,7 +45,7 @@
 <repository>
 <id>benefitalign-nexus-local</id>
 <name>Local file system</name>
-<url>/myrepo</url>
+<url>/simple-parent</url>
 </repository>
 </distributionManagement>
 </project>
