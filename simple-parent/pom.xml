@@ -18,13 +18,9 @@
     <module>simple-webapp</module>
   </modules>
 <scm>
-<connection>
-scm:git:https://github.com/maniimanjari/simpleparent
-</connection>
-<developerConnection>scm:git:https://github.com/maniimanjari/simpleparent
-</developerConnection>
-<url>scm:git:https://github.com/maniimanjari/simpleparent
-</url>
+<connection>scm:git:git://github.com/maniimanjari/simpleparent</connection>
+<developerConnection>scm:git:git@github.com:maniimanjari/simpleparent.git</developerConnection>
+<url>https://github.com/maniimanjari/simpleparent.git</url>
 </scm>
   <build>
     <pluginManagement>
