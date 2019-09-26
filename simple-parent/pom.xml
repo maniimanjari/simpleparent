@@ -22,6 +22,15 @@
 <developerConnection>scm:git:git@github.com:maniimanjari/simpleparent.git</developerConnection>
 <url>https://github.com/maniimanjari/simpleparent.git</url>
 </scm>
+  <developers>
+		<developer>
+			<email>maniimanjari@gmail.com</email>
+			<name>manii</name>
+			<url>https://github.com/maniimanjari</url>
+			<id>maniimanjari</id>
+                           
+		</developer>
+	</developers>       
   <build>
     <pluginManagement>
     <plugins>
