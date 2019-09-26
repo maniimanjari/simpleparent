@@ -17,7 +17,15 @@
     <module>simple-weather</module>
     <module>simple-webapp</module>
   </modules>
-
+<scm>
+<connection>
+scm:git:https://github.com/maniimanjari/simpleparent
+</connection>
+<developerConnection>scm:git:https://github.com/maniimanjari/simpleparent
+</developerConnection>
+<url>scm:git:https://github.com/maniimanjari/simpleparent
+</url>
+</scm>
   <build>
     <pluginManagement>
     <plugins>
