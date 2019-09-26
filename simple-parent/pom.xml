@@ -45,7 +45,7 @@
 <repository>
 <id>benefitalign-nexus-local</id>
 <name>Local file system</name>
-<url>/var/lib/jenkins/.m2/repository/org/sonatype/mavenbook/multi/simple-parent</url>
+<url>/myrepo</url>
 </repository>
 </distributionManagement>
 </project>
