@@ -42,7 +42,13 @@
     </dependency>
   </dependencies>
   <distributionManagement>
-<repository>
+    <snapshotRepository>
+         <id>benefitalign-nexus-local</id>
+         <name>Local file system</name>
+         <url>file:///root/repo/</url>
+    </snapshotRepository>
+
+             <repository>
 <id>benefitalign-nexus-local</id>
 <name>Local file system</name>
 <url>file:///root/repo/</url>
