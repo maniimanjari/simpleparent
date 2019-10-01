@@ -19,9 +19,9 @@
   </modules>
 
 <scm> 
-    <connection>scm:git:ssh://github.com/maniimanjari/simpleparent.git</connection>
+    <connection>scm:git:https://github.com/maniimanjari/simpleparent.git</connection>
     <url>https://github.com/maniimanjari/simpleparent.git</url>
-    <developerConnection>scm:git:ssh://git@github.com/maniimanjari/simpleparent.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/maniimanjari/simpleparent.git</developerConnection>
     <tag>v1.1</tag>
   </scm>
 
