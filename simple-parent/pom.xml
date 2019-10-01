@@ -19,9 +19,9 @@
   </modules>
 
 <scm> 
-    <connection>scm:git:git@github.com:maniimanjari/simpleparent.git</connection>
-    <url>scm:git:git@github.com:maniimanjari/simpleparent.git</url>
-    <developerConnection>scm:git:git@github.com:maniimanjari/simpleparent.git</developerConnection>
+    <connection>scm:git:ssh://github.com/maniimanjari/simpleparent.git</connection>
+    <url>https://github.com/maniimanjari/simpleparent.git</url>
+    <developerConnection>scm:git:ssh://git@github.com/maniimanjari/simpleparent.git</developerConnection>
     <tag>v1.1</tag>
   </scm>
 
@@ -38,7 +38,8 @@
   <build>
     <pluginManagement>
     <plugins>
-      		<plugin>
+      
+'	  <plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-eclipse-plugin</artifactId>
 					<version>2.9</version>
