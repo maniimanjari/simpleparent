@@ -19,22 +19,12 @@
   </modules>
 
 <scm> 
-    <connection>scm:git:https://github.com/maniimanjari/simpleparent.git</connection>
-    <url>scm:git:https://github.com/maniimanjari/simpleparent.git</url>
-    <developerConnection>scm:git:https://github.com/maniimanjari/simpleparent.git</developerConnection>
-    <tag>v1.1</tag>
+    <connection>scm:git:https://github.com/maniimanjari/simpleparent</connection>
+    <developerConnection>scm:git:https://github.com/maniimanjari/simpleparent</developerConnection>
+   <url>https://github.com/maniimanjari/simpleparent</url>
+	
   </scm>
 
-  <developers>
-
-		<developer>
-			<email>maniimanjari@gmail.com</email>
-			<name>manii</name>
-			<url>https://github.com/maniimanjari</url>
-			<id>maniimanjari</id>
-                           
-		</developer>
-	</developers>       
   <build>
     <pluginManagement>
     <plugins>
